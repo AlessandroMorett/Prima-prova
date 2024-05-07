@@ -2,4 +2,4 @@
 This is a template repository for an HTML page that connects with Puck.js using Web Bluetooth.
 The page shows two buttons to turn the green LED on and off.
 
-[Try me!](https://AlessandroMorett.github.io/Prima-prova/page.html)
+[Try me!](https://alessandromorett.github.io/Prima-prova/page.html)
